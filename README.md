@@ -1,4 +1,4 @@
-[![Masterhead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+[![Masterhead](https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif)]
 
 <h1 align="center">Hi 👋, I'm Harsh Vardhan Singh</h1>
 <h3 align="center">A passionate Back-end developer from India</h3>
